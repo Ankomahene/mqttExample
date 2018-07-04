@@ -7,3 +7,7 @@ def weatherInfo():
 
     w.get_wind()
     w.get_humidity()
+
+def newChanges():
+    sum = 2 + 3
+    print (sum)
